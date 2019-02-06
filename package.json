@@ -1,6 +1,6 @@
 {
-  "name": "unstated",
-  "version": "2.1.1",
+  "name": "@whollacsek/unstated",
+  "version": "2.1.2",
   "description": "State so simple, it goes without saying",
   "main": "lib/unstated.js",
   "module": "lib/unstated.es.js",
